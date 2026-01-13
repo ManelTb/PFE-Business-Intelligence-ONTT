@@ -43,3 +43,21 @@ de l’ONTT à mieux comprendre l’évolution du secteur touristique.
 ---
 
 ## 📂 Structure du projet
+PFE-Business-Intelligence-ONTT/
+│
+├── presentation/
+│   └── Manel_Trabelsi_PFE.ppt
+│
+├── powerbi/
+│   └── Statistiques_Hotels_ONTT.pbix
+│
+├── screenshots/
+│   ├── accueil_dashboard.png
+│   ├── analyse_hotels.png
+│   ├── visiteurs.png
+│   └── evolution_statistiques.png
+│
+├── data/
+│   └── data_sample.xlsx   (données anonymisées)
+│
+└── README.md 
