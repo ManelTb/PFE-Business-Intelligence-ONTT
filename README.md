@@ -52,10 +52,10 @@ PFE-Business-Intelligence-ONTT/
 │   └── Statistiques_Hotels_ONTT.pbix
 │
 ├── screenshots/
-│   ├── accueil_dashboard.png
-│   ├── analyse_hotels.png
-│   ├── visiteurs.png
-│   └── evolution_statistiques.png
+│   ├── accueil_dashboard.jpeg
+│   ├── analyse_hotels.jpeg
+│   ├── visiteurs.jpeg
+│   └── evolution_statistiques.jpeg
 │
 ├── data/
 │   └── data_sample.xlsx   (données anonymisées)
